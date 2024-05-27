@@ -1,0 +1,5 @@
+Entertainment, 75.0, Other, 2024-05-02,162622;
+Entertainment, 75.0, Other, 2024-05-02,540514;
+Entertainment, 75.0, Other, 2024-05-02,647953;
+Entertainment, 75.0, Other, 2024-05-02,477799;
+Entertainment, 75.0, Other, 2024-05-02,412837;
