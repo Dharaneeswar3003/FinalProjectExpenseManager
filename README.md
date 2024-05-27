@@ -248,7 +248,7 @@ The other fuctionality in the edit window is the delete.
  What this method does is that it finds the transaction with its unique ID and erases it from the tableView and the file it is in. After that, it updates the table to show the transaction without the deleted one.
  ##### 5. Quit
  ![Add Expense Pane](/Resources/Quit.PNG)
- Clicking on the quit button opens up a dialog which confirms if the user wants to quit or not:
+ The user can just exit by clicking on the "X" on the top right corners of the window but can also cick on the quit button opens up a dialog which confirms if the user wants to quit or not:
  ```
   @FXML
     void quit(ActionEvent event) {
